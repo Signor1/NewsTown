@@ -1,6 +1,6 @@
-<img src="https://github.com/Signor1/qBlog/blob/b7d3d9b6402accc9aa1ae9eb1da4c1776cbbac37/Q.%20Studio.png"/>
+<img src="https://github.com/Signor1/NewsTown/blob/b99bbd0de7b284b108484cc76a69ec380d828066/20221103_132728_0000.jpeg"/>
 
-# QBLOG WEB APP
+# NEWSTOWN WEB APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and TailwindCSS.
 
@@ -45,10 +45,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 React-Router-dom version '^5.3.3'. `npm i react-router-dom@5` [react-router-dom@5](https://www.npmjs.com/package/react-router-dom).
 
-AOS animation version `^3.0.0-beta.6`. `npm install aos --save` [aos](https://michalsnik.github.io/aos/).
-
 React-paginate version '^8.1.3'. `npm install react-paginate --save` [react-paginate](https://www.npmjs.com/package/react-paginate).
 
 React-slick version '^0.29.0'. `npm install react-slick --save` [react-slick](https://www.npmjs.com/package/react-slick).
 
 React-scroll version '^1.8.8'. `npm install react-scroll` [react-scroll](https://www.npmjs.com/package/react-scroll).
+
+React-awesome-reveal version '4.1.0'. `npm install react-awesome-reveal @emotion/react --save` [react-awesome-reveal](https://www.npmjs.com/package/react-awesome-reveal).
