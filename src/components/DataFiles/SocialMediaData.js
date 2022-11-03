@@ -1,0 +1,178 @@
+export const socialMediaData = [
+  {
+    id: 1601,
+    title:
+      "'When you dey chop, you no know say you go pay' - Nigerian lady embarrassed for not paying bill at a restaurant (Video)",
+    type: "Social Media",
+    time: "Yesterday 10:05pm",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/bvWaq0ED7rk.webp",
+    body: "A video shared by @doriswealthy at a restaurant shows the moment a lady got into a fight with two staff for not being able to foot her bills. Reports gathered that she had come to the lounge with a man but was abandoned unexpectedly and she didn't have enough to pay the bill. She resorted to begging the staff to consider her since they are all females but her please fell on deaf ears. The staff didn't take it lightly as they threatened to assault her if she didn't settle them on time. One of them said:- 'You no know say you go pay when you dey chop all this one?. Dem dey follow you talk small small, you dey raise voice. Oga pay your bill!' Reacting to the outburst, the other lady pleaded that they tamper justice with mercy and stop embarrassing her. 'Can you guys just relax? Don't touch me, wait make I pay my bills. Stop embarrassing me', the heartbroken lady replied.",
+    comments: [],
+  },
+  {
+    id: 1602,
+    title:
+      "Heartbroken man seeks advice after finding out wife slept with 6 men at NYSC camp, aborted twice",
+    type: "Social Media",
+    time: "Yesterday 12:57pm",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/no4NXYnnK9M.webp",
+    body: "Heartbroken man recounts how he found out that his newly married wife had slept with six men at NYSC camp and did abortion twice for one. According to the narrator, his fiancée who had gone for NYSC failed to redeploy over complicated issues. Due to distance, his father-in-law had advise them to get engaged; since he just got a job recently, he decided to take a loan to do the necessary introductions and court wedding. After her service year, she returned but with a more withdrawn attitude; she rarely talked much and when he asked her about it, she had told him she lost a friend. The man revealed that he had taken it upon himself to do the house chores so she has time to rest. He stated that his mother-in-law had called to give them a prayer point to pray with and since it wasn't on his phone, he had checked his wife's WhatsApp only to find messages from a certain Niyi. The heartbroken man revealed that his wife had been corresponding with the guy and they had been planning to elope together. When he confronted his wife about it, she flared up and began demanding why he would check her phone. She, however, confessed that she had slept with six men at the NYSC camp and had done abortions for her lover, Niyi. Read his narration below: - 'Good morning. My girlfriend went to serve last year and she was supposed to redeploy back to our base but it didn't work. Because of the distance her father advised us to get engaged. Despite the fact that I! just got a job, I applied for loan and it was granted. We were able to do introduction and court wedding. So she was wearing her rings but she still wasn't deployed. During the 1 year service she comes home and I go visit her. She just finished serving a couple of weeks ago. I made sure our house got a new look as we were looking forward to our wedding by August next year. I notice my wife is always sad and disconnected. So I kept asking her what was wrong and she said she lost a friend. I started doing everything at home before I go to work so she can rest n- buy her small things evervday so she could be happy. It didn't stop the dulliness. Her mum called last night and while greeting me, she said she sent some prayers to our whatsapp that we should pray with it. By the time I remembered, my wife was sleeping. So I decided to pray alone, I checked my whatsapp for her mums message and it wasn't there so I checked hers. That was when I saw the chats from one Niyi guy that she has been going out with in camp and she aborted 2ce for. They are even planning on running away togethe. Till now my body is still shaking. I confronted her and she started shouting about why I was checking her phone, started cussing and after so much argument, she confessed she had slept with 6 guys in camp and she met the Niyi at her ppa that's why she didn't want to redeploy. I'm so sad and heartbroken. I can't go to work. I have been crying. I loved her so much. I don't know if I can ever forgive her. Please advise me. What should I do? Please Conceal my identity.'",
+    comments: [],
+  },
+  {
+    id: 1603,
+    title:
+      "'Men are so prideful' - Lady laments over competitive boyfriend who left her because she got him a MacBook",
+    type: "Social Media",
+    time: "Yesterday 1:08pm",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/wnRaMDMW7dq.webp",
+    body: "Young lady reveals that her prideful boyfriend terminated their relationship because she got him an Apple MacBook. According to the lady identified as Uzo Njoku, she had decided to gift her man a new MacBook. Much to her disappointment, her boyfriend didn't receive it excitedly; rather, he told her that he had been saving up to get it for himself. He had, according to Uzo, stated that although things are tight for him, he wouldn't let her buy things for him until they were equal in terms of spending; hurt by this, she noted that she had learned to only get expensive gifts for her future husband. Uzo further added that she's now happily single and doesn't have to put up with being told she's too ambitious. See wrote:- 'I bought this man a MacBook and that was what sparked the downfall of our relationship. M nare so competitive and prideful omg. Lesson learned to not buy them expensive gifts unless it's my husband. Happily single. Tired of hearing I'm too ambitious He was visibly upset about the gift saying he was going to buy it next year after saving. I offered to return it, he said nah. Money was tight for him but he wouldn't let me buy anything moving forward until we were equal in terms of spending. No dates. Just staring at the wall Then he began to police my spending. Telling me to return my Gucci glasses, I can buy Amazon glasses. I wanted to go to Cancun and he kept downing it saying no let's vacation at North Carolina. I'm sorry wtf is there. I paid for our trip to Cancun and hell broke loose. There are plenty of great women out to say he fumbled. Economics does pay a huge factor in relationships and I hope he finds someone more up his speed. I've learned to not buy a man something he can't afford'",
+    comments: [],
+  },
+  {
+    id: 1604,
+    title:
+      "Man makes u-turn after finding out that his love interest is a house owner",
+    type: "Social Media",
+    time: "Yesterday 10:08pm",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/mjyK6D5MawD.webp",
+    body: "A Twitter user, Hussy, has narrated how a man stopped talking to her after she revealed that she was the owner of the house she was living in. According to her, her friend told her then that she shouldn't have told him that she was the owner of the apartment. She also mentioned how he thought she was renting the apartment and had suggested she got a cheaper place because according to him, she shouldn't be spending so much on renting an apartment. However, after finding out she owns the house, he cut ties with her and advised her to get a room apartment instead. In her words: - 'I never forgot (this was years ago) when this guy found out that I owned the house I lived in, I never heard from him again. My friend said you shouldn't have told him. I said he advised me to downsize and rent a 1 bdrm apt instead of a house 🤷🏾‍♀️'.",
+    comments: [],
+  },
+  {
+    id: 1605,
+    title:
+      "The hustle is real; I must not see your boyfriend - Lady warns as she storms mall in search of man (Video)",
+    type: "Social Media",
+    time: "Yesterday 10:00pm",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/G4E7z9Q6Kb6.webp",
+    body: "Young lady who is tired of waiting for the right man to find her storms a mall to search for a serious relationship with those either single or in a serious relationship. A video making rounds on social media captured the public declaration of a lady who claimed to be in search of a man to date. Sharing the video on Instagram, she warned fellow females in a relationship to keep their men from her sight. 'The hustle is real,' she stated affirmatively as she embarked on her hunt.",
+    comments: [],
+  },
+  {
+    id: 1606,
+    title:
+      "'Turning 39, not married, no child, no relationship; I'm hopeless' - Lady weeps (Video)",
+    type: "Social Media",
+    time: "Yesterday 1:06pm",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/gVpagPgMNwO.webp",
+    body: "Embattled 39-year-old lady weeps bitterly as she highlights the struggle to have a relationship, and family of her own despite doing well financially. A video making rounds on social captured a troubled lady who lamented about approaching age 40 without a relationship. While driving on a highway and weeping profusely in the video she expressed being hopeless about her situation as she pleaded to god for a turn-around. 'Am turning 39, Not married No child, Not in a serious relationship. I'm hopeless; Please help me God,' she wrote.",
+    comments: [],
+  },
+  {
+    id: 1607,
+    title:
+      "Man heartbroken after unboxing new phone which he bought at Computer village (Video)",
+    type: "Social Media",
+    time: "Yesterday 1:01pm",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/9bVNr93DaWv.webp",
+    body: "A heartbroken man has shared a video after unwrapping his new phone which he got at computer village. After unboxing the supposed smartphone, he was met with the sight of trash, neatly wrapped in the pack. Several netizens blamed him for not opening the phone to test its components immediately after getting it at the store and in the presence of the vendor. One tzwhyte-official said; 'Me I can't pay for phone without opening it in that shop and testing the phone components first before i place the phone inside my front pocket and then put the carton inside leather bag and vamooz'. Another irenesawyer said, 'Why would you buy a phone that wasn't opened, tested in front of you? Why why why though??????? Why🤣🤔🤔🤔🤔🤔🤔'.",
+    comments: [],
+  },
+  {
+    id: 1608,
+    title:
+      "Lady goes haywire, yanks off wig in excitement as boyfriend proposes to her (Video)",
+    type: "Social Media",
+    time: "Yesterday 1:33pm",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/mjyK6DlMawD.webp",
+    body: "Viral video captures moment a young lady went crazy with excitement after her boyfriend knelt to propose. In a school environment, a young man decided to go down on his knees to pop the question to his girlfriend. Much to his surprise, instead of her accepting the ring he proffered, she ran off, yanking off her wig which stirred laughs from the spectators that had gathered to witness the event. When she had overcome the initial shock and excitement, she ran back to the boyfriend and accepted his proposal then proceeded to put back on her wig.",
+    comments: [],
+  },
+  {
+    id: 1609,
+    title:
+      "'I am the happiest person on earth' - Student gives testimony in church, laments struggle faced at home during ASUU strike (Video)",
+    type: "Social Media",
+    time: "Yesterday 12:59pm",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/zxG7Z0EQNq2.webp",
+    body: "Young man gives testimony in Church as ASUU calls off strike following the challenges faced at the hands of parents. This comes following the termination of the eight-month strike that rendered students across Nigeria stranded. In a video making rounds on social media, a student identified as Godpower gave glory to God for the breakthrough. Godspower bemoaned being helpless without anything progressive to do while emphasizing the struggle of doing house chores. 'They were doing somehow at home. A whole comrade like me was asked to wash plates. I thank God for letting me out of that house,' he stated.",
+    comments: [],
+  },
+  {
+    id: 1610,
+    title:
+      "'I will never get married again' - Heartbroken man fumes after catching 'virgin' fiancée in bed with another man",
+    type: "Social Media",
+    time: "Oct 15",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/qvg70OR5Kze.webp",
+    body: "A heartbroken man expresses an emotional outburst about not getting married again ever after finding his fiancee cheating with another man. A Twitter user identified as @Seyirighthere takes to the microblogging platform, Twitter, to cry out his pain. According to Seyi, he caught his fiancee who claimed to be a virgin being deflowered by another individual. 'I'm making this declaration today, I Seyi Oluleye will never get married. I will never, I know they will call family meeting on my head but I don't care. I will never get married. NEVER!! If I ever want to do it, God should take my life before the day. I will never do it Stg 💯. My fiancé went to sleep with another guy, got disvirgined by the guy. As in person I want to spend my whole life with og,' he wrote in a tweet.",
+    comments: [],
+  },
+  {
+    id: 1611,
+    title:
+      "Young girl lands in trouble after giving doggy s3x style tutorial and baring her boobs in viral video (18+ video)",
+    type: "Social Media",
+    time: "Dec 22, 2021",
+    author: "Same Emmanuel",
+    img: "https://static.netnaija.com/i/zxG7ZqkvKq2.png",
+    body: "A young girl has landed in trouble after giving a doggy sex style tutorial and baring her boobs in a viral video. The young lady who is said to be living in Gushegu in the Northern part of Ghana, was seen in the video with a friend who helped her out during the tutorial. Shortly after the video went viral, she was seen in another video being flogged by a relative for indulging in such an act publicly. As the lady was being beaten by the man, she pleaded for mercy but this fell on deaf ears as the alleged relative continued flogging her.",
+    comments: [],
+  },
+  {
+    id: 1612,
+    title:
+      "Most girls from poor background do not believe in love. They just want to escape their unfortunate conditions - Nigerian dad tells his son",
+    type: "Social Media",
+    time: "Oct 16",
+    author: "LuvlyGist",
+    img: "https://static.netnaija.com/i/mjyK6DoGawD.webp",
+    body: "A Nigerian dad says he has advised his son not to date any girl from a poor background. In a tweet posted on his handle, the man said from his own dating experience, he has come to understand that most of them don't believe in love. 'I told my son yesterday to avoid dating a girl from a poor background. In my dating experience, most of them don't believe in love, they just want to escape their unfortunate conditions. More so, they're the saviors their families are banking on to lift them out of poverty. They don't appreciate little things; they believe you can do more.'",
+    comments: [],
+  },
+  {
+    id: 1613,
+    title:
+      "Student shows off content of refrigerator as school resumes (Video)",
+    type: "Social Media",
+    time: "Oct 16",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/g3M73rPMK9y.webp",
+    body: "Student stirs reactions as she puts on display the items stocked in her refrigerator as school resumes after a long compulsory break. It would be recalled that The Academic Staff Union of Universities (ASUU) conditionally called off its eight-month-old strike after an agreement with the Federal Government. A lady who seems prepared for the new session in school leaves many drooling as she restocks basic needs in her refrigerator. The items include beverages ranging from wine to non-alcoholic fruit drinks, and junk foods like chocolates, chips, and many others. This, however, struck many users as exotic as many sworn to have only water as a common factor in the lady's refrigerator.",
+    comments: [],
+  },
+  {
+    id: 1614,
+    title:
+      "'I call this cutie a miracle baby' - Man rejoices as wife gives birth two years after taking-in",
+    type: "Social Media",
+    time: "Oct 16",
+    author: "Moses O",
+    img: "https://static.netnaija.com/i/wnRaMD6W7dq.webp",
+    body: "Young man and his entire family are in a celebration mood as his wife gives birth two years later after getting pregnant. A Twitter user identified as @Jydeskillz took to the platform to share testimonies about the complications his wife had while pregnant with their child. According to the user, the baby stopped growing at some point and they were advised to terminate the pregnancy to avoid complications. Following the birth of the child two years later, the new father referred to the child as a miracle child. 'Let me tell you why I call this cutie a miracle baby Mother took in 2020 Baby stopped growing in the womb Doctors adviced aborting,mother said God forbid 2022,2years after taking in baby came out alive and bouncing What God can't do doesn't exist God Did Always believe 🙏,' he wrote.",
+    comments: [],
+  },
+  {
+    id: 1615,
+    title:
+      "Ex-Aviation Minister mourns his brother-in-law who recently suffered cardiac arrest and died due to what he termed ''cultural failure'' at Federal Medical Centre Jabi",
+    type: "Social Media",
+    time: "Oct 16",
+    author: "LuvlyGist",
+    img: "https://static.netnaija.com/i/zxG7Z0JQNq2.jpg",
+    body: "Former Minister of Aviation, Osita Chidoka, is bereaved as he lost his brother-in-law on Saturday, October 15. In a post shared on social media, Chidoka revealed that his brother-in-law had visited the Federal Medical Center in Jabi on Friday, October 14, to complain of chest pain, but was allegedly asked to return on Saturday, October 1 as the lab technicians who were to carry out a test on him had closed for the day. Sadly, he suffered a cardiac arrest the next day and was rushed to the same hospital where he was pronounced dead on arrival. Read his account of what transpired below. 'Yesterday, I wrote about the inevitability of death as we approach the fifth decade conscious of the fact that the life expectancy of a Nigerian is 54 years. Today death visited. My brother-in-law Apost Paul Egbon husband of my only sister Ada Chidoka Egbon died at age 56. Yesterday, he was at the Federal Medical Centre Jabi with a complaint of chest pain. The Doctor who saw him prescribed painkillers and recommended ECG and other tests. At the Lab, they said it was late in the day and asked them to come back today Saturday. He walked to the car and they drove home. Allowing him to go home was a questionable decision. I couldn't help but recall, when as a grad student, I walked into Arlington, VA General Hospital with a chest pain complaint. They brought a stretcher immediately and took me to emergency. They ran all the tests and held me fastened to the bed until all the results came and they concluded it was a chest muscle pain. Early hours of this morning about 5 am he suffered, what we suspect, to be a cardiac arrest. My sister rushed him to the same federal Medical Centre Jabi. A doctor came out saw him in the car and pronounced him dead. They gave her a form and told her to take him to the mortuary. Yes, you read right. They told a grieving woman, who was told without any preparation, to take her dead husband to the morgue. They did not remove the corpse from the car. Apparently, there is no protocol to receive a patient brought in dead. She was in the car with her dead husband when my Uncle, a medical doctor, arrived. I arrived shortly after. She was in the car crying holding her husband in the car park of the hospital. A hospital they have used for years. We struggled to get her out of the car before we moved the corpse to the morgue. The hospital did not receive the body formally. No attempt at separating a wife from a corpse. No official record of the review that pronounced him dead. They did not counsel her or even empathise with her. It was not a medical failure; wrong diagnosis or lack of treatment. It was a process and cultural failure. Something has gone wrong with our humanity and sense of empathy as a people. I advise, go for regular medical checkups. Have a primary health physician who knows you personally and has your history. Your primary physician is likely to be the difference between life and death. Our institutions are weak and our public servants are neither public-minded nor interested in service. Together with the departed, we pray for God's mercy and love upon us all. Amen. Osita Chidoka'",
+    comments: [],
+  },
+  {
+    id: 1616,
+    title:
+      "Mere words of mouth do not constitute any offense - CSP Adejobi replies Twitter user who asked if it is okay for police officers to threaten an unharmed individual",
+    type: "Social Media",
+    time: "Oct 16",
+    author: "LuvlyGist",
+    img: "https://static.netnaija.com/i/wk37lR3zNPd.jpg",
+    body: "The spokesperson of the Nigeria Police Force, CSP Olumuyiwa Adejobi, has said that threatening with mere words do not constitute any offense. Adejobi stated this while responding to a Twitter user said  who said a police officer he and his wife had an encounter with, threatened to shoot them dead. See their Twitter exchange below",
+    comments: [],
+  },
+];
