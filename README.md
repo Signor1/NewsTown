@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+<img src="https://github.com/Signor1/qBlog/blob/b7d3d9b6402accc9aa1ae9eb1da4c1776cbbac37/Q.%20Studio.png"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# QBLOG WEB APP
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and TailwindCSS.
 
 ## Available Scripts
 
@@ -39,33 +41,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Some `npm` used and to be installed: 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+React-Router-dom version '^5.3.3'. `npm i react-router-dom@5` [react-router-dom@5](https://www.npmjs.com/package/react-router-dom).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+AOS animation version `^3.0.0-beta.6`. `npm install aos --save` [aos](https://michalsnik.github.io/aos/).
 
-### Code Splitting
+React-paginate version '^8.1.3'. `npm install react-paginate --save` [react-paginate](https://www.npmjs.com/package/react-paginate).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+React-slick version '^0.29.0'. `npm install react-slick --save` [react-slick](https://www.npmjs.com/package/react-slick).
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# NewsTown
+React-scroll version '^1.8.8'. `npm install react-scroll` [react-scroll](https://www.npmjs.com/package/react-scroll).
